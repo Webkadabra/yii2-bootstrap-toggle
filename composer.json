@@ -1,0 +1,22 @@
+{
+    "name": "webkadabra/yii2-bootstrap-toggle",
+    "description": "Wrapper widget for the jQuery Bootstrap Toggle widget.",
+    "keywords": ["yii2", "widget", "rating"],
+    "type": "yii2-extension",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Sergii Gamaiunov",
+            "email": "hello@webkadabra.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "bower-asset/bootstrap-toggle": "~2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "coksnuss\\widgets\\barrating\\": ""
+        }
+    }
+}
