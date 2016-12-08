@@ -4,6 +4,7 @@
     "keywords": ["yii2", "widget", "rating"],
     "type": "yii2-extension",
     "license": "MIT License",
+	"version": "0.1.0",
     "authors": [
         {
             "name": "Sergii Gamaiunov",
@@ -16,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "coksnuss\\widgets\\barrating\\": ""
+            "webkadabra\\yii\\widgets\\bootstrap\\toggle\\": ""
         }
     }
 }
